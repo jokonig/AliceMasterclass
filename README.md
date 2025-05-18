@@ -2,4 +2,4 @@ Einleitung: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.or
 
 Masterclass: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jokonig/AliceMasterclass.git/HEAD?filepath=Masterclass_08_02.ipynb)
 
-Lösung: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jokonig/AliceMasterclass.git/HEAD?filepath=Masterclass_08_02_Solved.ipynb)
+Inspiration: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jokonig/AliceMasterclass.git/HEAD?filepath=Masterclass_08_02_HowYouCouldDoIt.ipynb)
